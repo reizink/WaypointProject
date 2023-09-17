@@ -1,1 +1,1 @@
-/Users/kathyzinkmacbook/Documents/UnityProjects/NPCwayfinding
+/Users/kathyzinkmacbook/Documents/UnityProjects/GithubClones/WaypointProject/NPCwayfinding
